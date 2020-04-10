@@ -1,0 +1,7 @@
+{
+  "name": "apollo-mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
